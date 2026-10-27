@@ -1,0 +1,11 @@
+{
+  "name": "Jokko Sang",
+  "short_name": "Jokko Sang",
+  "description": "Connecter les donneurs. Sauver des vies.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FBF4EA",
+  "theme_color": "#FBF4EA",
+  "lang": "fr",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
